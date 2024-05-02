@@ -1,0 +1,20 @@
+{
+  "name": "nn-projec-05-word-counter",
+  "version": "1.0.1",
+  "description": "cli Word Counter project with typescript,node.js and inquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
